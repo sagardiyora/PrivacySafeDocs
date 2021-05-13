@@ -1,4 +1,4 @@
-### Device Owner (Non ROOT) Mode Setup
+1### Device Owner (Non ROOT) Mode Setup
 
 ### Notice:
 - Due to limitations of the MIUI system such as Xiaomi, Hide App feature may be invalid. Please activate it with caution.
